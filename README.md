@@ -1,6 +1,6 @@
 # 🗞️ News App - Jetpack Compose
 
-A Simple and modern Android News App built using Kotlin, Jetpack Compose, Retrofit, Paging3, and Coroutines. This app fetches and displays news articles using a REST API, with support for pagination and caching.
+A modern Android News App built using Kotlin, Jetpack Compose, Retrofit, Paging3, and Coroutines. This app fetches and displays news articles using a REST API, with support for pagination and caching.
 
 ---
 
